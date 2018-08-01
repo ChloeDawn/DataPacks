@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:birch_stairs", "count": 8 },
+  "group": "wooden_stairs",
+  "pattern": [ "P  ", "PP ", "PPP" ],
+  "key": {
+    "P": { "item": "minecraft:birch_planks" }
+  }
+}

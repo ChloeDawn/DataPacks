@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:prismarine_stairs", "count": 8 },
+  "pattern": [ "P  ", "PP ", "PPP" ],
+  "key": {
+    "P": { "item": "minecraft:prismarine" }
+  }
+}

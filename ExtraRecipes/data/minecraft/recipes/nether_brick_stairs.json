@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:nether_brick_stairs", "count": 8 },
+  "pattern": [ "B  ", "BB ", "BBB" ],
+  "key": {
+    "B": { "item": "minecraft:nether_bricks" }
+  }
+}
