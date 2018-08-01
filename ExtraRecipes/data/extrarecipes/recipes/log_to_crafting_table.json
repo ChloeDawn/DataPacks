@@ -1,0 +1,7 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:crafting_table" },
+  "ingredients": [
+    { "tag": "minecraft:logs" }
+  ]
+}
