@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "result": { "item": "minecraft:chiseled_quartz_block", "count": 2 },
   "pattern": [ "SS", "SS" ],
   "key": {
