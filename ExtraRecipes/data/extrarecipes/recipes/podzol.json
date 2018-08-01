@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "minecraft:podzol" },
+  "pattern": [ "LLL", "DDD" ],
+  "key": {
+    "L": { "tag": "minecraft:leaves" },
+    "D": { "item": "minecraft:dirt" }
+  }
+}
