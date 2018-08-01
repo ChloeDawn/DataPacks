@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:iron_trapdoor", "count": 4 },
+  "pattern": [ "III", "III" ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" }
+  }
+}

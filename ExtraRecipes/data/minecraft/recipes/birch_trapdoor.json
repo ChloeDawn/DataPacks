@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:birch_trapdoor", "count": 6 },
+  "group": "wooden_trapdoor",
+  "pattern": [ "PPP", "PPP" ],
+  "key": {
+    "P": { "item": "minecraft:birch_planks" }
+  }
+}
