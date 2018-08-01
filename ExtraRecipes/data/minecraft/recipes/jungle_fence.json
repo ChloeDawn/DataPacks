@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:jungle_fence", "count": 6 },
+  "group": "wooden_fence",
+  "pattern": [ "PSP", "PSP" ],
+  "key": {
+    "P": { "item": "minecraft:jungle_planks" },
+    "S": { "item": "minecraft:stick" }
+  }
+}

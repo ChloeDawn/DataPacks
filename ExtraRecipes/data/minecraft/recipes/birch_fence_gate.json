@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:birch_fence_gate", "count": 2 },
+  "group": "wooden_fence_gate",
+  "pattern": [ "SPS", "SPS" ],
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "P": { "item": "minecraft:birch_planks" }
+  }
+}
