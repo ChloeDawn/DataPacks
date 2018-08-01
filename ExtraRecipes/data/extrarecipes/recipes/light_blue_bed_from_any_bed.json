@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:light_blue_bed" },
+  "group": "dyed_bed",
+  "ingredients": [
+    { "tag": "extrarecipes:beds" },
+    { "item": "minecraft:light_blue_dye" }
+  ]
+}

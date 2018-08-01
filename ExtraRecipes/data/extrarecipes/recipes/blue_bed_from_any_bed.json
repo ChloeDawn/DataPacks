@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:blue_bed" },
+  "group": "dyed_bed",
+  "ingredients": [
+    { "tag": "extrarecipes:beds" },
+    { "item": "minecraft:lapis_lazuli" }
+  ]
+}

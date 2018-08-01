@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:magenta_bed" },
+  "group": "dyed_bed",
+  "ingredients": [
+    { "tag": "extrarecipes:beds" },
+    { "item": "minecraft:magenta_dye" }
+  ]
+}

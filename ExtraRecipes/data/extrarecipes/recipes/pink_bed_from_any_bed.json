@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:pink_bed" },
+  "group": "dyed_bed",
+  "ingredients": [
+    { "tag": "extrarecipes:beds" },
+    { "item": "minecraft:pink_dye" }
+  ]
+}
