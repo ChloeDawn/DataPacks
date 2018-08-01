@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:iron_horse_armor" },
+  "pattern": [ "III", "ISI" ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:saddle" }
+
+  }
+}
