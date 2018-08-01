@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:chiseled_stone_bricks", "count": 2 },
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:stone_brick_slab" }
+  },
+}
