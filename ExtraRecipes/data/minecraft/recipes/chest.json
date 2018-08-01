@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:chest" },
+  "group": "chest",
+  "pattern": [ "PPP", "P P", "PPP" ],
+  "key": {
+    "P": { "tag": "minecraft:planks" }
+  }
+}

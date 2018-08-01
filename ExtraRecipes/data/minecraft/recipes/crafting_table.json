@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:crafting_table" },
+  "group": "crafting_table",
+  "pattern": [ "PP", "PP" ],
+  "key": {
+    "P": { "tag": "minecraft:planks" }
+  }
+}
