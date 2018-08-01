@@ -2,8 +2,8 @@
   "type": "crafting_shaped",
   "result": { "item": "minecraft:sandstone" },
   "group": "sandstone",
-  "pattern": [ "S", "S" ],
+  "pattern": [ "SS", "SS" ],
   "key": {
-    "S": { "item": "minecraft:sandstone_slab" }
+    "S": { "item": "minecraft:sand" }
   }
 }

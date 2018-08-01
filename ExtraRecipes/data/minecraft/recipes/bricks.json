@@ -2,8 +2,8 @@
   "type": "crafting_shaped",
   "result": { "item": "minecraft:bricks" },
   "group": "bricks",
-  "pattern": [ "S", "S" ],
+  "pattern": [ "BB", "BB" ],
   "key": {
-    "S": { "item": "minecraft:brick_slab" }
+    "B": { "item": "minecraft:brick" }
   }
 }

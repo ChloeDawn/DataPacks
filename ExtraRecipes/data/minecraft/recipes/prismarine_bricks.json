@@ -2,8 +2,8 @@
   "type": "crafting_shaped",
   "result": { "item": "minecraft:prismarine_bricks" },
   "group": "prismarine_bricks",
-  "pattern": [ "S", "S" ],
+  "pattern": [ "SSS", "SSS", "SSS" ],
   "key": {
-    "S": { "item": "minecraft:prismarine_brick_slab" }
+    "S": { "item": "minecraft:prismarine_shard" }
   }
 }

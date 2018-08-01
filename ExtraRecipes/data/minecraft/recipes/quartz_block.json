@@ -2,8 +2,8 @@
   "type": "crafting_shaped",
   "result": { "item": "minecraft:quartz_block" },
   "group": "quartz_block",
-  "pattern": [ "S", "S" ],
+  "pattern": [ "QQ", "QQ" ],
   "key": {
-    "S": { "item": "minecraft:quartz_slab" }
+    "Q": { "item": "minecraft:quartz" }
   }
 }
