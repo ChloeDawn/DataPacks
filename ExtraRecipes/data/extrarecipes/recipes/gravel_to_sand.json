@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:sand" },
+  "ingredients": [
+    { "item": "minecraft:gravel" },
+    { "item": "minecraft:flint" }
+  ]
+}

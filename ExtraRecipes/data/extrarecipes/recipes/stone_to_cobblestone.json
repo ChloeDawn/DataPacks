@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:cobblestone" },
+  "ingredients": [
+    { "tag": "extrarecipes:stone" },
+    { "item": "minecraft:flint" }
+  ]
+}
