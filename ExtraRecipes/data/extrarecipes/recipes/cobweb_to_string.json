@@ -1,6 +1,7 @@
 {
   "type": "crafting_shapeless",
   "result": { "item": "minecraft:string" },
+  "group": "string",
   "ingredients": [
     { "item": "minecraft:cobweb" }
   ]
