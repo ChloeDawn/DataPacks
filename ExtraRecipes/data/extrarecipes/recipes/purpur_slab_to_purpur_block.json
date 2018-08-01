@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:purpur_block" },
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:purpur_slab" }
+  }
+}

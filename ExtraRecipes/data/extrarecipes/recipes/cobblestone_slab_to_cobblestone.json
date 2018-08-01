@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:cobblestone" },
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:cobblestone_slab" }
+  }
+}

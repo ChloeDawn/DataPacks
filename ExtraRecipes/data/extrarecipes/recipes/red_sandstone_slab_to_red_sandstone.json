@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:red_sandstone" },
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:red_sandstone_slab" }
+  }
+}

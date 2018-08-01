@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:spruce_planks" },
+  "group": "planks",
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:spruce_slab" }
+  }
+}
