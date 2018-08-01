@@ -1,0 +1,7 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:prismarine_shard", "count": 4 },
+  "ingredients": [
+    { "item": "minecraft:prismarine" }
+  ]
+}
