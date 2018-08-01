@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:bone_block", "count": 3 },
+  "pattern": [ "BBB", "BBB", "BBB" ],
+  "key": {
+    "B": { "item": "minecraft:bone" }
+  }
+}
