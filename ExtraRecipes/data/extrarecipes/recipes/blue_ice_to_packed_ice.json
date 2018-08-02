@@ -1,0 +1,7 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:packed_ice", "count": 4 },
+  "ingredients": [
+    { "item": "minecraft:blue_ice" }
+  ]
+}
