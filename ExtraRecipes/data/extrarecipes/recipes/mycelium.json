@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:mycelium" },
+  "pattern": [ "MMM", "DDD" ],
+  "key": {
+    "M": { "tag": "extrarecipes:mushroom_blocks" },
+    "D": { "item": "minecraft:dirt" }
+  }
+}
