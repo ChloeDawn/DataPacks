@@ -1,0 +1,7 @@
+{
+  "type": "crafting_shapeless",
+  "result": { "item": "minecraft:wheat_seeds" },
+  "ingredients": [
+    { "item": "minecraft:wheat" }
+  ]
+}
