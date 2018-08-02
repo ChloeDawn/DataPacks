@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:chainmail_boots" },
+  "pattern": [ "N N", "N N" ],
+  "key": {
+    "N": { "item": "minecraft:iron_nugget" }
+  }
+}
