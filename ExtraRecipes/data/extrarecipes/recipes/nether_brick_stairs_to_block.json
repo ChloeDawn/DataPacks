@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:nether_bricks", "count": 3 },
+  "group": "nether_bricks",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:nether_brick_stairs" }
+  }
+}

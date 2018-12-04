@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:prismarine_bricks", "count": 3 },
+  "group": "prismarine_bricks",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:prismarine_brick_stairs" }
+  }
+}

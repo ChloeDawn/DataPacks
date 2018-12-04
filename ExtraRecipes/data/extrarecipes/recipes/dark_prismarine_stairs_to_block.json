@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:dark_prismarine", "count": 3 },
+  "group": "dark_prismarine",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:dark_prismarine_stairs" }
+  }
+}

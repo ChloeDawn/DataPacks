@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:quartz_block", "count": 3 },
+  "group": "quartz_block",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:quartz_stairs" }
+  }
+}
