@@ -1,11 +1,10 @@
 {
   "type": "crafting_shaped",
   "result": { "item": "minecraft:elytra" },
-  "pattern": [ "LEL", "LTL", "PEP" ],
+  "pattern": [ "MEM", "MTM", "MEM" ],
   "key": {
-    "L": { "item": "minecraft:leather" },
     "E": { "item": "minecraft:ender_eye" },
-    "P": { "item": "minecraft:phantom_membrane" },
+    "M": { "item": "minecraft:phantom_membrane" },
     "T": { "item": "minecraft:ghast_tear" }
   }
 }
