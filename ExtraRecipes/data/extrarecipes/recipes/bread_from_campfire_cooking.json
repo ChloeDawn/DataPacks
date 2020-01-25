@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "result": "minecraft:bread",
+  "experience": 0.35,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "minecraft:wheat"
+  }
+}
