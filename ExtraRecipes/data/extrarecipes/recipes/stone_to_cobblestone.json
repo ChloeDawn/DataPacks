@@ -3,7 +3,7 @@
   "result": { "item": "minecraft:cobblestone" },
   "group": "cobblestone",
   "ingredients": [
-    { "tag": "extrarecipes:stone" },
+    { "tag": "extrarecipes:stones" },
     { "item": "minecraft:flint" }
   ]
 }
