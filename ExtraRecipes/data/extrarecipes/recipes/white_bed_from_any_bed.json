@@ -4,6 +4,6 @@
   "group": "dyed_bed",
   "ingredients": [
     { "tag": "extrarecipes:beds" },
-    { "item": "minecraft:bone_meal" }
+    { "item": "minecraft:white_dye" }
   ]
 }

@@ -4,6 +4,6 @@
   "group": "dyed_bed",
   "ingredients": [
     { "tag": "extrarecipes:beds" },
-    { "item": "minecraft:cactus_green" }
+    { "item": "minecraft:green_dye" }
   ]
 }

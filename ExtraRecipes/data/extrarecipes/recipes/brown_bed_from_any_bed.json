@@ -4,6 +4,6 @@
   "group": "dyed_bed",
   "ingredients": [
     { "tag": "extrarecipes:beds" },
-    { "item": "minecraft:cocoa_beans" }
+    { "item": "minecraft:brown_dye" }
   ]
 }
