@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "minecraft:item_frame" },
+  "pattern": [ "SSS", "SRS", "SSS" ],
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "R": { "item": "minecraft:string" }
+  }
+}
