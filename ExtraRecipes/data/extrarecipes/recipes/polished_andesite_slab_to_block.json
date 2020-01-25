@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:polished_andesite" },
+  "group": "polished_andesite",
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:polished_andesite_slab" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:granite" },
+  "group": "granite",
+  "ingredients": [
+    { "item": "minecraft:diorite" },
+    { "item": "minecraft:quartz" }
+  ]
+}

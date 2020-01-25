@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "minecraft:polished_granite", "count": 4 },
+  "group": "polished_granite",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:granite" }
+  }
+}

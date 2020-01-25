@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:mossy_stone_bricks" },
+  "group": "mossy_stone_bricks",
+  "ingredients": [
+    { "item": "minecraft:stone_bricks" },
+    { "item": "minecraft:vine" }
+  ]
+}

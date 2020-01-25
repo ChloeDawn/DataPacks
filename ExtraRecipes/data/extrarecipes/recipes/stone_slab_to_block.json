@@ -1,6 +1,7 @@
 {
   "type": "crafting_shaped",
   "result": { "item": "minecraft:stone" },
+  "group": "stone",
   "pattern": [ "S", "S" ],
   "key": {
     "S": { "item": "minecraft:stone_slab" }

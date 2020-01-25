@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:red_nether_bricks" },
+  "group": "red_nether_bricks",
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:red_nether_brick_slab" }
+  }
+}

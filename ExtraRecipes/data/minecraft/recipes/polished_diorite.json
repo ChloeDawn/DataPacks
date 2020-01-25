@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "minecraft:polished_diorite", "count": 4 },
+  "group": "polished_diorite",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:diorite" }
+  }
+}

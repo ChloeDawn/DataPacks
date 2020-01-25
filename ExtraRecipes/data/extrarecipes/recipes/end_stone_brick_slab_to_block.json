@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:end_stone_bricks" },
+  "group": "end_stone_bricks",
+  "pattern": [ "S", "S" ],
+  "key": {
+    "S": { "item": "minecraft:end_stone_brick_slab" }
+  }
+}

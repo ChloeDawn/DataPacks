@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:stone", "count": 3 },
+  "group": "stone",
+  "pattern": [ "SS", "SS" ],
+  "key": {
+    "S": { "item": "minecraft:stone_stairs" }
+  }
+}
