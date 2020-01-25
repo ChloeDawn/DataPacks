@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:dark_oak_planks" },
+  "group": "planks",
+  "pattern": [ "BBB", "B B", "BBB" ],
+  "key": {
+    "B": { "item": "minecraft:dark_oak_button" }
+  }
+}

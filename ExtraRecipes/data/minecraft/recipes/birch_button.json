@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:birch_button", "count": 8 },
+  "ingredients": [
+    { "item": "minecraft:birch_planks" }
+  ]
+}

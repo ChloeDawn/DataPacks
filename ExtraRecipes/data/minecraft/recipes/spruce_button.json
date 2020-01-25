@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "minecraft:spruce_button", "count": 8 },
+  "ingredients": [
+    { "item": "minecraft:spruce_planks" }
+  ]
+}
