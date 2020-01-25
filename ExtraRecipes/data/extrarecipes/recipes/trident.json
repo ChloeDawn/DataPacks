@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shaped",
+  "result": { "item": "minecraft:trident", "count": 1 },
+  "pattern": [ "SSS", " R ", " R " ],
+  "key": {
+    "S": { "item": "minecraft:prismarine_shard" },
+    "R": { "item": "minecraft:blaze_rod" }
+  }
+}
