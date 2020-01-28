@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shapeless",
+  "type": "minecraft:crafting_shapeless",
   "result": { "item": "minecraft:snowball", "count": 4 },
   "ingredients": [
     { "item": "minecraft:snow_block" }

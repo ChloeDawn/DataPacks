@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:smooth_sandstone", "count": 3 },
   "group": "smooth_sandstone",
   "pattern": [ "SS", "SS" ],

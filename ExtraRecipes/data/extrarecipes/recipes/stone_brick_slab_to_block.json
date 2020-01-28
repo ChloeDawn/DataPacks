@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:stone_bricks" },
   "group": "stone_bricks",
   "pattern": [ "S", "S" ],

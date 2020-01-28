@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:diamond_horse_armor" },
   "pattern": [ "DDD", "DSD" ],
   "key": {

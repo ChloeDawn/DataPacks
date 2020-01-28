@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:cobblestone", "count": 3 },
   "group": "cobblestone",
   "pattern": [ "SS", "SS" ],

@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:red_sandstone_stairs", "count": 8 },
   "pattern": [ "S  ", "SS ", "SSS" ],
   "key": {

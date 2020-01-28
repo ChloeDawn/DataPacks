@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:granite", "count": 3 },
   "group": "granite",
   "pattern": [ "SS", "SS" ],

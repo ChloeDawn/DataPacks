@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:prismarine_bricks" },
   "group": "prismarine_bricks",
   "pattern": [ "SSS", "SSS", "SSS" ],

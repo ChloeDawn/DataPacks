@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:cobweb", "count": 4 },
   "pattern": [ "SSS", "SBS", "SSS" ],
   "key": {

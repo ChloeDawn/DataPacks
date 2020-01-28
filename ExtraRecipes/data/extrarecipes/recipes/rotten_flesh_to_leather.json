@@ -1,5 +1,5 @@
 {
-  "type": "smelting",
+  "type": "minecraft:smelting",
   "result": "minecraft:leather",
   "experience": 0.0,
   "cookingtime": 200,

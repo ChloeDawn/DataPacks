@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:acacia_stairs", "count": 8 },
   "group": "wooden_stairs",
   "pattern": [ "P  ", "PP ", "PPP" ],

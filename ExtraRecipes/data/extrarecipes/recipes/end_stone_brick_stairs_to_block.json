@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:end_stone_bricks", "count": 3 },
   "group": "end_stone_bricks",
   "pattern": [ "SS", "SS" ],

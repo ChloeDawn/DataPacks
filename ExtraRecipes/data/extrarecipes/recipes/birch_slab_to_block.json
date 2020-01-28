@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:birch_planks" },
   "group": "planks",
   "pattern": [ "S", "S" ],

@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:red_nether_bricks", "count": 3 },
   "group": "red_nether_bricks",
   "pattern": [ "SS", "SS" ],

@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:andesite", "count": 3 },
   "group": "andesite",
   "pattern": [ "SS", "SS" ],
