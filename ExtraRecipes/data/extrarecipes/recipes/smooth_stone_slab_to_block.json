@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "result": { "item": "minecraft:smooth_stone" },
   "group": "smooth_stone",
-  "pattern": [ "SS", "SS" ],
+  "pattern": [ "S", "S" ],
   "key": {
-    "S": { "item": "minecraft:stone_slab" }
+    "S": { "item": "minecraft:smooth_stone_slab" }
   }
 }
